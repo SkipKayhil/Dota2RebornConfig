@@ -24,7 +24,7 @@ Keybind Guide
 ####Spacebar Pressed
 ![spacemod picture](http://puu.sh/bz6eJ/a3bdb77f98.png)
 
-## Launch Options
+## Launch Options (optional)
 --------------
 `-novid -noforcemaccel -noforcemspd -useforcedmparms -high -windowed -noborder -w [put width here] -h [put height here]`
 
@@ -33,5 +33,3 @@ Keybind Guide
 2. Select "Properties"
 3. Select "Set Launch Options"
 4. Paste into the box, then add your monitors dimensions where it says to put them (you'll know, it's at the end)
-
-
