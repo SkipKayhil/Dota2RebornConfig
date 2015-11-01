@@ -3,17 +3,15 @@ Skipped's Dota 2 Config
 
 This is the config file I use to play Dota 2. It remaps basic abilities to quickcast along with adding tons of useful binds in places that are easy to reach.
 
-Main Layout (without my modifications): credit to Loopuleasa and his [Reddit Post](https://www.reddit.com/r/DotA2/comments/2gd3gc/the_config_guy_here_once_again_bringing_the_v32/)
-
-How to use
+Quick How-To:
 ----------
-You can download the zipped file on the right. 
+You can download the repository on the left under **Downloads**
 
-####Extract the Config file to:
+####Place the *cfg* files in:
 `$steam$/steamapps/common/dota 2 beta/game/dota/cfg` 
 (where $steam$ is your Steam installation folder)
 
-See the images below as there are lots of binds!
+The images below give an overview of the hotkeys.
 
 Keybind Guide
 -----
