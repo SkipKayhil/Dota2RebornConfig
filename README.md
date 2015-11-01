@@ -10,7 +10,7 @@ How to use
 You can download the zipped file on the right. 
 
 ####Extract the Config file to:
-`$steam$/steamapps/common/dota 2 beta/dota/cfg` 
+`$steam$/steamapps/common/dota 2 beta/game/dota/cfg` 
 (where $steam$ is your Steam installation folder)
 
 See the images below as there are lots of binds!
@@ -26,7 +26,7 @@ Keybind Guide
 
 ## Launch Options (optional)
 --------------
-`-novid -noforcemaccel -noforcemspd -useforcedmparms -high -windowed -noborder -w [put width here] -h [put height here]`
+`-novid -high -windowed -noborder -w [put width here] -h [put height here] -gl -enable_addons`
 
 ####Copy the launch options to:
 1. Right click on Dota 2 in Steam Library
