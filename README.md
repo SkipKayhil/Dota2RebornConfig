@@ -26,7 +26,7 @@ Keybind Guide
 
 ## Launch Options (optional)
 --------------
-`-novid -high -windowed -noborder -w [put width here] -h [put height here] -gl -enable_addons`
+`-novid -high -windowed -noborder -w [put width here] -h [put height here] -enable_addons`
 
 ####Copy the launch options to:
 1. Right click on Dota 2 in Steam Library
