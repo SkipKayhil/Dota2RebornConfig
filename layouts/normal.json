@@ -1,0 +1,334 @@
+[
+  {
+    "backcolor": "#002b36"
+  },
+  [
+    {
+      "c": "#b58900",
+      "t": "#fdf6e3",
+      "p": "OEM",
+      "a": 6
+    },
+    "Cancel Select\n\n\n\nEsc",
+    {
+      "x": 1,
+      "c": "#dc322f"
+    },
+    "Check Top Rune\n\n\n\nF1",
+    {
+      "c": "#b58900"
+    },
+    "Select Courier\n\n\n\nF2",
+    {
+      "c": "#002b36",
+      "a": 7
+    },
+    "\n\n\n\nF3",
+    {
+      "c": "#dc322f",
+      "a": 6
+    },
+    "Quick Buy\n\n\n\nF4",
+    {
+      "x": 0.5,
+      "c": "#cb4b16"
+    },
+    "Say Rosh\n\n\n\nF5",
+    {
+      "c": "#002b36",
+      "a": 7
+    },
+    "\n\n\n\nF6",
+    "\n\n\n\nF7",
+    "\n\n\n\nF8",
+    {
+      "x": 0.5,
+      "c": "#859900",
+      "a": 6
+    },
+    "Pause\n\n\n\nF9",
+    {
+      "c": "#002b36",
+      "a": 7
+    },
+    "\n\n\n\nF10",
+    "\n\n\n\nF11",
+    "\n\n\n\nF12",
+    {
+      "x": 0.25
+    },
+    "\n\n\n\nPrtScr",
+    "\n\n\n\nS.Lock",
+    "\n\n\n\nPause"
+  ],
+  [
+    {
+      "y": 0.5,
+      "c": "#cb4b16",
+      "a": 2
+    },
+    "Score Board\n\n\n\n&nbsp;~\n`&nbsp;",
+    {
+      "c": "#b58900"
+    },
+    "Select Hero\n\n\n\n&nbsp;!\n1&nbsp;",
+    "Control Group 1\n\n\n\n&nbsp;@\n2&nbsp;",
+    "Control Group 2\n\n\n\n&nbsp;#\n3&nbsp;",
+    "Control Group 3\n\n\n\n&nbsp;$\n4&nbsp;",
+    "Control Group 4\n\n\n\n&nbsp;%\n5&nbsp;",
+    "Control Group 5\n\n\n\n&nbsp;^\n6&nbsp;",
+    "Control Group 6\n\n\n\n&nbsp;&\n7&nbsp;",
+    "Control Group 7\n\n\n\n&nbsp;*\n8&nbsp;",
+    "Control Group 8\n\n\n\n&nbsp;(\n9&nbsp;",
+    {
+      "c": "#002b36",
+      "a": 3
+    },
+    "\n\n\n\n&nbsp;)\n0&nbsp;",
+    "\n\n\n\n&nbsp;_\n-&nbsp;",
+    "\n\n\n\n&nbsp;+\n=&nbsp;",
+    {
+      "a": 7,
+      "w": 2
+    },
+    "\n\n\n\nBackspace",
+    {
+      "x": 0.25
+    },
+    "\n\n\n\nInsert",
+    "\n\n\n\nHome",
+    "\n\n\n\nPgUp",
+    {
+      "x": 0.25
+    },
+    "\n\n\n\nN.Lock",
+    "\n\n\n\n/",
+    "\n\n\n\n*",
+    "\n\n\n\n-"
+  ],
+  [
+    {
+      "c": "#b58900",
+      "a": 6,
+      "w": 1.5
+    },
+    "Cycle Selected Units\n\n\n\nTab",
+    {
+      "c": "#2aa198"
+    },
+    "Quick Ab 1\n\n\n\nQ",
+    "Quick Ab 2\n\n\n\nW",
+    "Quick Ab 3\n\n\n\nE",
+    "Quick Ult\n\n\n\nR",
+    {
+      "c": "#268bd2"
+    },
+    "Quick Item 2\n\n\n\nT",
+    {
+      "c": "#002b36",
+      "a": 7
+    },
+    "\n\n\n\nY",
+    "\n\n\n\nU",
+    "\n\n\n\nI",
+    "\n\n\n\nO",
+    "\n\n\n\nP",
+    {
+      "a": 3
+    },
+    "\n\n\n\n&nbsp;{\n[&nbsp;",
+    "\n\n\n\n&nbsp;}\n]&nbsp;",
+    {
+      "c": "#859900",
+      "a": 2,
+      "w": 1.5
+    },
+    "Toggle Console\n\n\n\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\n\\&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    {
+      "x": 0.25,
+      "c": "#002b36",
+      "a": 7
+    },
+    "\n\n\n\nDelete",
+    "\n\n\n\nEnd",
+    "\n\n\n\nPgDn",
+    {
+      "x": 0.25,
+      "a": 3
+    },
+    "\n\n\n\n7\nHome",
+    "\n\n\n\n8\n↑",
+    "\n\n\n\n9\nPgUp",
+    {
+      "a": 7,
+      "h": 2
+    },
+    "\n\n\n\n+"
+  ],
+  [
+    {
+      "w": 1.75
+    },
+    "\n\n\n\nCaps Lock",
+    {
+      "c": "#dc322f",
+      "a": 6
+    },
+    "Quick Attack Move\n\n\n\nA",
+    "Stop\n\n\n\nS",
+    {
+      "c": "#2aa198"
+    },
+    "Quick Ab 4\n\n\n\nD",
+    {
+      "n": true
+    },
+    "Quick Ab 5\n\n\n\nF",
+    {
+      "c": "#268bd2"
+    },
+    "Quick Item 5\n\n\n\nG",
+    {
+      "c": "#002b36",
+      "a": 7
+    },
+    "\n\n\n\nH",
+    {
+      "n": true
+    },
+    "\n\n\n\nJ",
+    "\n\n\n\nK",
+    "\n\n\n\nL",
+    {
+      "a": 3
+    },
+    "\n\n\n\n&nbsp;:\n;&nbsp;",
+    "\n\n\n\n&nbsp;\"\n'&nbsp;",
+    {
+      "c": "#cb4b16",
+      "a": 6,
+      "w": 2.25
+    },
+    "Say Team\n\n\n\nEnter",
+    {
+      "x": 3.5,
+      "c": "#002b36",
+      "a": 3
+    },
+    "\n\n\n\n4\n←",
+    "\n\n\n\n5",
+    "\n\n\n\n6\n→"
+  ],
+  [
+    {
+      "c": "#d33682",
+      "a": 7,
+      "w": 2.25
+    },
+    "Queue Modifier\n\n\n\nShift",
+    {
+      "c": "#dc322f",
+      "a": 6
+    },
+    "Learn Stats\n\n\n\nZ",
+    {
+      "c": "#002b36",
+      "a": 7
+    },
+    "\n\n\n\nX",
+    {
+      "c": "#268bd2",
+      "a": 6
+    },
+    "Quick Item 6\n\n\n\nC",
+    "Quick Item 3\n\n\n\nV",
+    {
+      "c": "#dc322f"
+    },
+    "Toggle Shop\n\n\n\nB",
+    {
+      "c": "#002b36",
+      "a": 7
+    },
+    "\n\n\n\nN",
+    "\n\n\n\nM",
+    {
+      "a": 3
+    },
+    "\n\n\n\n&nbsp;<\n,&nbsp;",
+    "\n\n\n\n&nbsp;>\n.&nbsp;",
+    "\n\n\n\n&nbsp;?\n/&nbsp;",
+    {
+      "a": 7,
+      "w": 2.75
+    },
+    "\n\n\n\nShift",
+    {
+      "x": 1.25
+    },
+    "\n\n\n\n↑",
+    {
+      "x": 1.25,
+      "a": 3
+    },
+    "\n\n\n\n1\nEnd",
+    "\n\n\n\n2\n↓",
+    "\n\n\n\n3\nPgDn",
+    {
+      "a": 7,
+      "h": 2
+    },
+    "\n\n\n\nEnter"
+  ],
+  [
+    {
+      "c": "#d33682",
+      "w": 1.25
+    },
+    "Upgrade Modifier\n\n\n\nCtrl",
+    {
+      "c": "#002b36",
+      "w": 1.25
+    },
+    "\n\n\n\nWin",
+    {
+      "w": 1.25
+    },
+    "\n\n\n\nAlt",
+    {
+      "c": "#d33682",
+      "w": 6.25
+    },
+    "Alt Modifier",
+    {
+      "c": "#002b36",
+      "w": 1.25
+    },
+    "\n\n\n\nAlt",
+    {
+      "w": 1.25
+    },
+    "\n\n\n\nWin",
+    {
+      "w": 1.25
+    },
+    "\n\n\n\nMenu",
+    {
+      "w": 1.25
+    },
+    "\n\n\n\nCtrl",
+    {
+      "x": 0.25
+    },
+    "\n\n\n\n←",
+    "\n\n\n\n↓",
+    "\n\n\n\n→",
+    {
+      "x": 0.25,
+      "a": 3,
+      "w": 2
+    },
+    "\n\n\n\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0\nIns&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "\n\n\n\n&nbsp;.\nDel&nbsp;"
+  ]
+]
