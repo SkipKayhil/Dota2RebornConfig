@@ -1,7 +1,7 @@
 Skipped's Reborn Dota 2 Config
 =======================
 
-This is my configuration files for Dota 2. The overall goal is to provide as much reachable functionality as possible.
+This is my configuration for Dota 2. The overall goal is to provide as much reachable functionality as possible.
 
 Quick How-To:
 ----------
