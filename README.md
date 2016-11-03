@@ -1,18 +1,17 @@
 Skipped's Reborn Dota 2 Config
 =======================
-<<<<<<< HEAD
 
-This is the config file I use to play Dota 2. It remaps basic abilities to quickcast along with adding tons of useful binds in places that are easy to reach.
+This is my configuration files for Dota 2. The overall goal is to provide as much functionality as possible within a reasonable reach.
 
 Quick How-To:
 ----------
 You can download the repository on the left under **Downloads**
 
 ####Place the *cfg* files in:
-`$steam$/steamapps/common/dota 2 beta/game/dota/cfg` 
+`$steam$/steamapps/common/dota 2 beta/game/dota/cfg`
 (where $steam$ is your Steam installation folder)
 
-You can read the full installation guide [in the wiki](https://bitbucket.org/SkipKayhil/dota2rebornconfig/wiki/Installation)
+[The thorough installation guide](https://github.com/skipkayhil/dota2rebornconfig/blob/master/iinstallation.md)
 
 Keybind Guide
 -----
@@ -26,13 +25,10 @@ The images below give an overview of the hotkeys.
 
 ## Launch Options (optional)
 --------------
-`-novid -high -windowed -noborder -w [put width here] -h [put height here] -enable_addons`
+`-novid -high -windowed -noborder -w 1920 -h 1080 -enable_addons-map dota -antiaddiction_test`
 
 ####Copy the launch options to:
 1. Right click on Dota 2 in Steam Library
 2. Select "Properties"
 3. Select "Set Launch Options"
 4. Paste into the box, then add your monitors dimensions where it says to put them (you'll know, it's at the end)
-=======
-we've moved! future updates can be found [here at bitbucket.org/SkipKayhil/dota2rebornconfig](http://bitbucket.org/SkipKayhil/dota2rebornconfig)
->>>>>>> dfdd6dc1c13752c8c5e763f1862c014336e5c469
